@@ -11,6 +11,7 @@
 #include <SPIFFS.h>
 #include <TJpg_Decoder.h>
 
+// Credentials
 #define WIFI_SSID ""
 #define WIFI_PASS ""
 #define SPOTIFY_CLIENT_ID ""
