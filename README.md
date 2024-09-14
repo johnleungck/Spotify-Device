@@ -1,7 +1,8 @@
 # ESP32 Spotify Device (Currently just a playback controller)
 
 It can control playback and view track details. Like this:
-![Demo Image](https://i.scdn.co/image/ab67616d00001e0285e5dcc05cc216a10f141480)
+
+![Demo Image](https://github.com/johnleungck/Spotify-Device/blob/main/Spotify-Device-Demo.jpeg)
 
 ### Hardware
 - AZ-Delivery ESP-32 Dev Kit C V4 (ESP32-Wrover)
