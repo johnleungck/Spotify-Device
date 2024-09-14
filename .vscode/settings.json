@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "spotifyarduino.h": "c",
+        "arduino.h": "c",
+        "wifi.h": "c",
+        "spotifyarduinocert.h": "c",
+        "ui.h": "c",
+        "globals.h": "c"
+    }
+}
